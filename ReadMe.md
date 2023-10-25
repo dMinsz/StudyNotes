@@ -20,6 +20,6 @@ Obsidian 을 이용한 공부용 노트 및 메모 모음 레포입니다.
 ---
 #### 자료 모음
 
-[C# 코테 준비](./Arcive/C# 코테 팁.md)
+[C# 코테 준비](./Arcive/C#_코테_팁.md)
 
-[C# CS 이론](./Arcive/CSharp 관련 CS 자료 모음.md)
+[C# CS 이론](./Arcive/CSharp_관련_CS_자료모음.md)
